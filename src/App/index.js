@@ -6,7 +6,7 @@ import * as firebase from 'firebase/app';
 import ChatShell from '../ChatShell';
 import UserManagement from '../UserManagement';
 import FilteredChatList from '../FilteredChatList';
-//its a change
+import '../AppShell/index.js';
 class App extends Component {
 
 }
